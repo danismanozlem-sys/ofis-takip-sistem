@@ -1,0 +1,1 @@
+web: gunicorn miraclesoft_ofis_takip_flask:app
